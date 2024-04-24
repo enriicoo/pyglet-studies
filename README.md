@@ -13,4 +13,4 @@ Game development is probably going to change with the development of LLMs. Game 
 
 - Ping-pong game v3
   
-  A more refined game of ping-pong. Handles physics, speed, keeps score, resets game when ball goes off, and separates logics with classes of Scenes similar to Godot. Everything here is a scene, meaning everything has it's own class with more or less independent attributes, with 3 scenarios (Main Menu, Game, and Options) and objects (Button, Paddle, and Ball).
+  A more refined game of ping-pong. Handles physics, speed, keeps score, resets game when ball goes off, and separates logics with classes of Scenes similar to Godot. Everything here is a scene, meaning everything has it's own class with more or less independent attributes, with 4 scenarios (Main Menu, GameScene, WinScene and Options) and objects (Button, Paddle, and Ball).
