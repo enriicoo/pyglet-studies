@@ -1,7 +1,7 @@
 # pyglet-studies
 Studies on pyglet usages in Python. 
 
-Game development is probably going to change with the development of LLMs. Game engines might just lose space for packages like pyglet, which a developer might just ask for a game from a LLM. This study is mainly to prove we seem to be a long way from abolishing engines for the complexity between object handling.
+Game development is probably going to change with the development of LLMs. Game engines might just lose space for packages like pyglet, which a developer might just ask for a game from a LLM. This study is mainly to prove we seem to be a long way from abolishing engines for the complexity between object handling, understanding good playability and maintaining good code development.
 
 - Ping-pong game
   
